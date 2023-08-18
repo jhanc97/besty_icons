@@ -1,46 +1,54 @@
-[
+{
+  "icons": [
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail1.webp",
-        "type": "fail"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail1.webp",
+      "type": "fail"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail2.webp",
-        "type": "fail"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail2.webp",
+      "type": "fail"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail3.webp",
-        "type": "fail"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail3.webp",
+      "type": "fail"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail4.webp",
-        "type": "fail"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail4.webp",
+      "type": "fail"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail5.webp",
-        "type": "fail"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail5.webp",
+      "type": "fail"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail6.webp",
-        "type": "fail"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/fail6.webp",
+      "type": "fail"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess1.webp",
-        "type": "sucess"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess1.webp",
+      "type": "sucess"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/succes2.webp",
-        "type": "sucess"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/succes2.webp",
+      "type": "sucess"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess3.webp",
-        "type": "sucess"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess3.webp",
+      "type": "sucess"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess4.webp",
-        "type": "sucess"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess4.webp",
+      "type": "sucess"
     },
     {
-        "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess5.webp",
-        "type": "sucess"
+      "url": "https://raw.githubusercontent.com/jhanc97/besty_icons/main/sucess5.webp",
+      "type": "sucess"
     }
-]
+  ],
+  "videos": [
+    {
+      "url": "https://github.com/jhanc97/besty_icons/raw/main/kangs_celebarando.mp4",
+      "title": "Tus ancestros viendo que porfin logras 'ponerla'"
+    }
+  ]
+}
